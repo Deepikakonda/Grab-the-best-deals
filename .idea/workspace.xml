@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71762f29-d545-4b1e-9437-a072791d192d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/bestdealsproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/bestdealsproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/bestdealsproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/bestdealsproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/bestdealsproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/css/harishs-awesome-site-e937b5.webflow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/css/webflow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/fonts/Inter-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/fonts/Inter-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/fonts/Inter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/fonts/Inter-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/BG-Shape-Content.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Banner-Wave.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Black--White-Minimalist-Business-Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Button-Wave.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Content-Pattern.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Content-Pattern_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Food-Takeaway-p-130x130q80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Food-Takeaway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Furnitures.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Gadgets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Groceries.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-1080.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-130x130q80.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-130x130q80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-1600.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-2000.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-500.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo-p-800.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Group-Photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Pattern-01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Pattern-Footer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Phones-p-130x130q80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Phones-p-500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Phones-p-800.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Phones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Step-01-p-130x130q80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Step-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Step-02-p-130x130q80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Step-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Step-03-p-130x130q80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/Step-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/YumYum-p-130x130q80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/YumYum-p-500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/YumYum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/stationeries.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/trustpilot-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/images/webclip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/static/js/webflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/401.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/deals_all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/detail_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/detail_product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/detail_sku.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/furnitures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/gadgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/groceries.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/order-confirmation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/paypal-checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/stationeries.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/template/changelog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/template/licence.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/templates/template/styleguide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/deals/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestdealsproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2xNl05zHK9fIKGsmLOzcmgpJejA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71762f29-d545-4b1e-9437-a072791d192d" name="Changes" comment="" />
+      <created>1747786185458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747786185458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
